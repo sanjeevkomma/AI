@@ -43,3 +43,5 @@ This course teaches you how to create image captioning model by using deep learn
 
 9️⃣ 𝗜𝗻𝘁𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 𝘁𝗼 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗶𝘃𝗲 𝗔𝗜 𝗦𝘁𝘂𝗱𝗶𝗼:
 This course covers Generative AI Studio, a product on Vertex AI. It will help you prototype and customize generative AI models so you can use their capabilities in your applications. 🔗 https://lnkd.in/eTgCNb3i
+
+* https://www.linkedin.com/posts/lucas-storm-87389425b_ai-digitaltransformation-technology-activity-7186392971506814977-G4t3?utm_source=share&utm_medium=member_desktop
