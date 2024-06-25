@@ -95,9 +95,10 @@
   * [AI and ML for Your Enterprise - Oracle](https://developer.oracle.com/developer-live/ai-ml-enterprise/)
   
 # Image
-1. AL VS ML VS DL
 * ![image](https://user-images.githubusercontent.com/7721150/155130814-711c6fd6-f286-4393-bfcf-00a6ae1f24d6.png)
 * ![image](https://github.com/sanjeevkomma/AI-ML/assets/7721150/7286fc5f-034f-430e-b491-744015c1d8dd)
+* ![image](https://github.com/sanjeevkomma/AI/assets/7721150/5adc529f-66f0-4495-8093-56104c951069)
+
 
 
 
