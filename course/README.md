@@ -45,3 +45,54 @@ This course teaches you how to create image captioning model by using deep learn
 This course covers Generative AI Studio, a product on Vertex AI. It will help you prototype and customize generative AI models so you can use their capabilities in your applications. 🔗 https://lnkd.in/eTgCNb3i
 
 * https://www.linkedin.com/posts/lucas-storm-87389425b_ai-digitaltransformation-technology-activity-7186392971506814977-G4t3?utm_source=share&utm_medium=member_desktop
+
+
+Launch Your AI Career: 16 Free Courses to Get You Started
+
+1. Introduction to Generative AI  -
+https://lnkd.in/efZc2TmD
+
+2. Career Essentials in Generative AI -
+https://lnkd.in/eH-i8vXn
+
+3. Free Live Workshop on GenAI -
+https://brij.guru/ai
+
+3. Intro to Artificial Intelligence -
+https://lnkd.in/eVpzzPSs
+
+4. AI for Everyone -
+https://lnkd.in/eKnzD6n7
+
+5. AI Chatbots without Programming -
+https://lnkd.in/eDyw9DwD
+
+6. AI Ready Initiative -
+https://lnkd.in/esVDNRTa
+
+7. AI for Everyone -
+https://lnkd.in/enA7jutN
+
+8. Prompt Engineering for Developers -
+https://lnkd.in/eBig5Whn
+
+9. Prompt Engineering for Everyone -
+https://lnkd.in/egm4RUir
+
+10. Machine Learning -
+https://lnkd.in/etX_UqMF
+
+11. AI with Python -
+https://lnkd.in/eCEkTE_k
+
+12. Transform Your Business With AI -
+https://lnkd.in/eWERYNjH
+
+13. AI For Business Specialization -
+https://lnkd.in/eeiw3jW3
+
+14. AI for Good Specialization -
+https://lnkd.in/eNWfJ_xs
+
+15. Responsible AI  -
+https://lnkd.in/ef_Gk4Js
