@@ -1,3 +1,14 @@
+# AI Tools
+1. Bolt
+2. Cursor
+3. Lovable
+4. Replit
+5. v0
+6. Linear
+7. Notion
+8. Perplexity Pro
+9. Superhuman
+10. Granola
 
 1️⃣ 𝗜𝗻𝘁𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 𝘁𝗼 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗶𝘃𝗲 𝗔𝗜:
 An introductory course that covers
