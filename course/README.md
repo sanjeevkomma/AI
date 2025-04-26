@@ -1,3 +1,8 @@
+# To Read
+```scss
+AI Model → (includes) → LLM → (often used for) → Generative AI → (evolving into) → Agentic AI
+```
+
 # AI Tools
 1. Bolt
 2. Cursor
