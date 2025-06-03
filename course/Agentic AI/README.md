@@ -35,4 +35,6 @@ Agentic AI → Specialized agents + Shared context + Multi-agent collaboration +
 * ![image](https://github.com/user-attachments/assets/1f979499-cf82-4a45-86a4-b2ed46256017)
 # AI Agents vs Agentic AI
 * ![image](https://github.com/user-attachments/assets/bc7e2289-00cb-44db-8726-c32d31328f5c)
+* ![image](https://github.com/user-attachments/assets/0440735f-0534-497b-a148-4729ed945e31)
+
 
