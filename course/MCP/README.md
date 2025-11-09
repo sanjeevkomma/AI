@@ -11,9 +11,9 @@
 2. Claude
 
 # Tools
-1. Drive
-2. Calender
-3. Weather
+1. Drive API / Drive App
+2. Calender API / Calender App
+3. Weather API / Weather App
 
 # Flow
 ```java
