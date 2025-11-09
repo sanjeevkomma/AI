@@ -7,8 +7,11 @@
 * MCP acts as USB port for all device types to connect to PC
 
 # MCP Architecture
-* MCP Client
-* MCP Server
+* LLM(Chat GPT, Claude etc) interacts with MCP Client
+* MCP Server(Drive server, Calender server, Weather server etc) interacts with Tools(Drive app/API, Calender app/API, Weather app/API etc)
+* Each Tool should have its own MCP server
+* Each MCP server has its own MCP client
+* LLM should maintain MCP client and Tool provider should maintain MCP server 
 * <img width="797" height="398" alt="image" src="https://github.com/user-attachments/assets/95891d3d-27b0-4c2f-8e77-6d688efaa3bf" />
 
 
@@ -28,7 +31,7 @@
 
 # Flow
 ```java
-LLM --> MCP --> Tools
+LLM --> MCP(MCP Client, MCP Server) --> Tools
 
 We are trying to provide **Context** of **Tools** to **Model**
 
