@@ -26,4 +26,5 @@
 LLM --> MCP --> Tools
 
 We are trying to provide Context of Tools to Model
+Protocol is Standard
 ```
