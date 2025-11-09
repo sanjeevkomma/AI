@@ -5,7 +5,12 @@
 
 # ToRead
 * MCP acts as USB port for all device types to connect to PC
-* 
+
+# MCP Architecture
+* MCP Client
+* MCP Server
+* <img width="797" height="398" alt="image" src="https://github.com/user-attachments/assets/95891d3d-27b0-4c2f-8e77-6d688efaa3bf" />
+
 
 # What MCP does ?
 1. Send email
@@ -25,6 +30,7 @@
 ```java
 LLM --> MCP --> Tools
 
-We are trying to provide Context of Tools to Model
-Protocol is Standard
+We are trying to provide **Context** of **Tools** to **Model**
+
+**Protocol** is Standard
 ```
