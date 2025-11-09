@@ -1,5 +1,9 @@
 # Definition
-* **MCP** : MCP is a protocol which enables LLM applications to interact with Tools / Resources ( Outside of LLM )
+* MCP is a protocol which enables LLM applications to interact with Tools / Resources ( Outside of LLM )
+* MCP is a standardization for connecting AI assistants with Tools / Resources
+
+# ToRead
+* MCP acts as USB port for all device types to connect to PC
 
 
 # What MCP does ?
