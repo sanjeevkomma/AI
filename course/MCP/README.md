@@ -1,5 +1,5 @@
 # Definition
-* **MCP** : MCP is a protocol, it enables LLM to interact with Tools
+* **MCP** : MCP is a protocol which enables LLM to interact with Tools
 
 
 # What MCP does ?
