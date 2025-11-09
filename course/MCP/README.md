@@ -10,7 +10,7 @@
 1. ChatGPT
 2. Claude
 
-3. # Tools
+# Tools
 1. Drive
 2. Calender
 3. Weather
