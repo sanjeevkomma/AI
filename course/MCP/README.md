@@ -10,7 +10,7 @@
 ```java
 * API = for developers
 * MCP = for AI agents
-```java
+```
 
 # ToRead
 * MCP acts as USB port for all device types to connect to PC
