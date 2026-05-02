@@ -2,7 +2,14 @@
 * MCP = Model Context Protocol
 * MCP is a protocol which enables LLM applications to interact with Tools / Resources ( Outside of LLM )
 * MCP is a standardization for connecting AI assistants with Tools / Resources
-
+* MCP is
+  * Connector for API / DB
+  * Adapter for API / DB
+  * Tool Interface for AI Agent
+```java
+* API = for developers
+* MCP = for AI agents
+```java
 # ToRead
 * MCP acts as USB port for all device types to connect to PC
 
