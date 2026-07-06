@@ -99,6 +99,8 @@
 * ![image](https://github.com/sanjeevkomma/AI-ML/assets/7721150/7286fc5f-034f-430e-b491-744015c1d8dd)
 * ![image](https://github.com/sanjeevkomma/AI/assets/7721150/5adc529f-66f0-4495-8093-56104c951069)
 * <img width="800" height="999" alt="image" src="https://github.com/user-attachments/assets/24d43661-73c6-420e-87dc-1b9f21cdcced" />
+* <img width="1242" height="1526" alt="image" src="https://github.com/user-attachments/assets/ee13c792-2f89-4da1-944c-f59875913574" />
+
 
 
 
