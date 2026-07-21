@@ -2,6 +2,9 @@
 ```scss
 AI Model → (includes) → LLM → (often used for) → Generative AI → (evolving into) → Agentic AI
 ```
+* Langchain is AI Application framework(Python / JavaScript) to build AI Application
+* Langgraph is AI Agent framework(Python) to build AI Agent
+
 
 # AI Tools
 1. Bolt
