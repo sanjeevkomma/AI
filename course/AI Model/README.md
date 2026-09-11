@@ -4,11 +4,9 @@
     * Then they make decisions or create outputs based on new inputs
 
 
-# Artificial Intelligence (AI)
+# AI Models
 
 ```text
-Artificial Intelligence (AI)
-│
 ├── AI Models
 │   │
 │   ├── Machine Learning Models
