@@ -115,3 +115,12 @@ https://lnkd.in/eNWfJ_xs
 
 15. Responsible AI  -
 https://lnkd.in/ef_Gk4Js
+
+
+# ANI vs AGI vs ASI
+| Type    | Full form                       | What it means                                                                            | Capability                                           | Example                                                   |
+| ------- | ------------------------------- | ---------------------------------------------------------------------------------------- | ---------------------------------------------------- | --------------------------------------------------------- |
+| **ANI** | Artificial Narrow Intelligence  | AI designed for specific tasks                                                           | Limited/specialized                                  | Spam detection, recommendation systems, image classifiers |
+| **AGI** | Artificial General Intelligence | AI with broad, human-level general intelligence                                          | Can learn and solve many different kinds of problems | **Hypothetical**; no universally accepted AGI exists      |
+| **ASI** | Artificial Superintelligence    | Intelligence that substantially exceeds humans across virtually all intellectual domains | Beyond human capability                              | **Hypothetical**                                          |
+
