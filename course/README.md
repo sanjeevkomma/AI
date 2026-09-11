@@ -5,6 +5,14 @@ AI Model → (includes) → LLM → (often used for) → Generative AI → (evol
 * Langchain is AI Application framework(Python / JavaScript) to build AI Application
 * Langgraph is AI Agent framework(Python) to build AI Agent
 
+# AI Tools
+| Term    | Full Form                        | What it means                                            | Capability                                                                         | Example                                                                                                   |
+| ------- | -------------------------------- | -------------------------------------------------------- | ---------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
+| **ARC** | Abstraction and Reasoning Corpus | Tests abstract reasoning and generalization              | Discover rules, identify patterns, and apply rules to new problems                 | Solving an ARC puzzle by figuring out how colored grids transform                                         |
+| **ANI** | Artificial Narrow Intelligence   | AI designed for a specific task or limited set of tasks  | Performs very well within a defined domain but has limited ability outside it      | Spam detection, Netflix recommendations, face recognition                                                 |
+| **AGI** | Artificial General Intelligence  | AI capable of broad, human-like general intelligence     | Can learn, reason, plan, adapt, code, solve problems, and work across many domains | A hypothetical AI that can learn Java, solve mathematics, learn languages, and handle unfamiliar problems |
+| **ASI** | Artificial Superintelligence     | AI whose general intelligence exceeds human intelligence | Performs better than humans across essentially all intellectual domains            | A hypothetical AI that outperforms the world's best scientists, engineers, mathematicians, etc.           |
+
 
 # AI Tools
 1. Bolt
@@ -117,10 +125,4 @@ https://lnkd.in/eNWfJ_xs
 https://lnkd.in/ef_Gk4Js
 
 
-# ANI vs AGI vs ASI
-| Type    | Full form                       | What it means                                                                            | Capability                                           | Example                                                   |
-| ------- | ------------------------------- | ---------------------------------------------------------------------------------------- | ---------------------------------------------------- | --------------------------------------------------------- |
-| **ANI** | Artificial Narrow Intelligence  | AI designed for specific tasks                                                           | Limited/specialized                                  | Spam detection, recommendation systems, image classifiers |
-| **AGI** | Artificial General Intelligence | AI with broad, human-level general intelligence                                          | Can learn and solve many different kinds of problems | **Hypothetical**; no universally accepted AGI exists      |
-| **ASI** | Artificial Superintelligence    | Intelligence that substantially exceeds humans across virtually all intellectual domains | Beyond human capability                              | **Hypothetical**                                          |
 
