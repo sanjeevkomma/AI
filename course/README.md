@@ -5,7 +5,7 @@ AI Model → (includes) → LLM → (often used for) → Generative AI → (evol
 * Langchain is AI Application framework(Python / JavaScript) to build AI Application
 * Langgraph is AI Agent framework(Python) to build AI Agent
 
-# AI Tools
+# ARC vs ANI vs AGI vs ASI
 | Term    | Full Form                        | What it means                                            | Capability                                                                         | Example                                                                                                   |
 | ------- | -------------------------------- | -------------------------------------------------------- | ---------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
 | **ARC** | Abstraction and Reasoning Corpus | Tests abstract reasoning and generalization              | Discover rules, identify patterns, and apply rules to new problems                 | Solving an ARC puzzle by figuring out how colored grids transform                                         |
