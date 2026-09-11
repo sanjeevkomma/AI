@@ -4,7 +4,9 @@
     * Then they make decisions or create outputs based on new inputs
 
 
-# Hierarchy
+# Artificial Intelligence (AI)
+
+```text
 Artificial Intelligence (AI)
 │
 ├── AI Models
