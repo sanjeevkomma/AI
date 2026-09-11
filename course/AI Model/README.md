@@ -4,7 +4,7 @@
     * Then they make decisions or create outputs based on new inputs
 
 
-# AI Models
+# AI Models Hierarchy
 
 ```text
 ├── AI Models
