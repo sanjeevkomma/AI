@@ -5,7 +5,6 @@
 
 
 # AI Models Hierarchy
-
 ```text
 ├── AI Models
 │   │
@@ -19,13 +18,38 @@
 │   │   └── Object Detection
 │   │
 │   ├── Speech Models
-│   │   ├── Speech-to-Text
-│   │   └── Text-to-Speech
+│   │   ├── Speech-to-Text (STT)
+│   │   └── Text-to-Speech (TTS)
 │   │
 │   └── Language Models
-│       └── LLMs
+│       │
+│       ├── Statistical Language Models
+│       │   └── N-gram Models
+│       │
+│       ├── Neural Language Models
+│       │   ├── RNN-based Models
+│       │   ├── LSTM-based Models
+│       │   └── GRU-based Models
+│       │
+│       ├── Transformer Language Models
+│       │   │
+│       │   ├── Encoder-only
+│       │   │   └── BERT
+│       │   │
+│       │   ├── Decoder-only
+│       │   │   ├── GPT
+│       │   │   ├── Llama
+│       │   │   └── Mistral
+│       │   │
+│       │   └── Encoder-Decoder
+│       │       ├── T5
+│       │       └── FLAN-T5
+│       │
+│       └── Large Language Models (LLMs)
 │           ├── GPT
 │           ├── Claude
 │           ├── Gemini
 │           ├── Llama
 │           └── Mistral
+```
+
