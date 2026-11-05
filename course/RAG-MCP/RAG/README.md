@@ -1,5 +1,6 @@
 # ToRead
 * RAG = Retrieval-Augmented Generation
+* RAG is an Architectural Pattern
 * RAG is a framework where a language model retrieves relevant external data (documents, PDFs, database info, etc.) and generates answers based on that data, rather than relying solely on what it was trained on
 
 # RAG Workflow – Step-by-Step
